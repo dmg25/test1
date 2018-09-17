@@ -1,0 +1,9 @@
+c:\users\erfinder\documents\visual studio 2012\Projects\testingCHeckBox\testingCHeckBox\bin\Debug\testingCHeckBox.exe.config
+c:\users\erfinder\documents\visual studio 2012\Projects\testingCHeckBox\testingCHeckBox\bin\Debug\testingCHeckBox.exe
+c:\users\erfinder\documents\visual studio 2012\Projects\testingCHeckBox\testingCHeckBox\bin\Debug\testingCHeckBox.pdb
+c:\users\erfinder\documents\visual studio 2012\Projects\testingCHeckBox\testingCHeckBox\obj\Debug\testingCHeckBox.csprojResolveAssemblyReference.cache
+c:\users\erfinder\documents\visual studio 2012\Projects\testingCHeckBox\testingCHeckBox\obj\Debug\testingCHeckBox.Form1.resources
+c:\users\erfinder\documents\visual studio 2012\Projects\testingCHeckBox\testingCHeckBox\obj\Debug\testingCHeckBox.Properties.Resources.resources
+c:\users\erfinder\documents\visual studio 2012\Projects\testingCHeckBox\testingCHeckBox\obj\Debug\testingCHeckBox.csproj.GenerateResource.Cache
+c:\users\erfinder\documents\visual studio 2012\Projects\testingCHeckBox\testingCHeckBox\obj\Debug\testingCHeckBox.exe
+c:\users\erfinder\documents\visual studio 2012\Projects\testingCHeckBox\testingCHeckBox\obj\Debug\testingCHeckBox.pdb
